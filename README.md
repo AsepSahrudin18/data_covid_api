@@ -1,2 +1,12 @@
-# data_covid_api
-Final Project UTS
+# RESTFul API Covid
+## Final Project UTS
+
+## Stack
+○ Menggunakan Framework Laravel.
+○ Menggunakan MySQL Database.
+○ Menggunakan Arsitektur REST
+
+
+|
+
+
